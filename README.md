@@ -121,6 +121,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [DeepL Write](https://www.deepl.com/write) - AI writing tool that improves written communication.
 - [Headlinesai.pro](https://www.headlinesai.pro/) - This AI powered tool can help you in generating catchy and optimized headlines based on your content for multiple platforms like Youtube, Medium, Indie Hackers and Reddit.
 - [GPTLocalhost](https://gptlocalhost.com/demo/) - A local Word Add-in for you to use local LLM servers in Microsoft Word. Alternative to "Copilot in Word" and completely local.
+- [Risk Compass](https://www.jiayi.co/risk-compass) - AI-powered Canadian immigration risk assessment and planning tool.
 
 
 ### ChatGPT extensions
@@ -545,6 +546,7 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Daruy](https://daruy.space/) - Personalized Gift Idea Generator
 - [Promptly](https://searchpromptly.com/) - Discover, create and share powerful prompts
 - [Melies](https://melies.co) - AI Filmmaking software
+- [Risk Compass](https://www.jiayi.co/risk-compass) - AI-powered Canadian immigration risk assessment and planning tool.
 
 
 ## Learning resources
